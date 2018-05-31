@@ -12,3 +12,7 @@ https://docs.google.com/spreadsheets/d/18MkZjK1fwriSbh4B4EKrlk9MfB45lM0qm19NKI2a
 **Machine Learning Exam Link**
 
 https://goo.gl/forms/uTnYDAOfagRzSmLZ2
+
+
+**Certificate **
+https://goo.gl/forms/tILwgwzvnxVxVrTH3
