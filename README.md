@@ -16,3 +16,7 @@ https://goo.gl/forms/uTnYDAOfagRzSmLZ2
 
 **Certificate **
 https://goo.gl/forms/tILwgwzvnxVxVrTH3
+
+
+**Face Reco dataset*
+https://drive.google.com/file/d/18HmkIsjoX4apSecTqiYg54QtayGlaccJ/view?usp=sharing
