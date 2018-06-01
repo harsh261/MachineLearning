@@ -1,22 +1,29 @@
-# Summer Intership program on Machine Learning
-
-
-Click on this link for to signup IBM
-
-ibm.biz/BdZy3q 
-
-
-https://docs.google.com/spreadsheets/d/18MkZjK1fwriSbh4B4EKrlk9MfB45lM0qm19NKI2azmk/edit?usp=sharing
-
-
-**Machine Learning Exam Link**
-
-https://goo.gl/forms/uTnYDAOfagRzSmLZ2
-
-
-**Certificate **
-https://goo.gl/forms/tILwgwzvnxVxVrTH3
-
-
-**Face Reco dataset*
-https://drive.google.com/file/d/18HmkIsjoX4apSecTqiYg54QtayGlaccJ/view?usp=sharing
+# Practical Machine Learning with Python
+### Content
+1. Probability & Statistics Intuition
+2. Python
+- Numpy
+- Pandas
+- Matplotlib
+3. Regression
+- Linear Regression
+- Polynomial Regression
+- Multiple Regression
+4. Classification
+- Logistic Regression
+- K Nearest Neighbour
+- Support Vector Machine
+- Descion Tree
+- Random Forest 
+- Navie Bayes
+5. Natural Language Processing
+- Restaurants Sentiment Analysis
+6. Unsupervised Learning
+- K Means Clustering
+7. Watson Studio
+- Watson Machine Learning
+- Deploying Machine Leanring model
+8. Projects
+- Movie Review System (Kaggle)
+- Diabetes health moniter system (Deployed in IBM Wastson Studio)
+- Gender Classification using Machine Learning
