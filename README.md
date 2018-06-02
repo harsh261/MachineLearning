@@ -27,3 +27,6 @@
 - Movie Review System (Kaggle)
 - Diabetes health moniter system (Deployed in IBM Wastson Studio)
 - Gender Classification using Machine Learning
+
+
+https://www.kaggle.com/uciml/pima-indians-diabetes-database/data
